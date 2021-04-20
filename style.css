@@ -72,8 +72,8 @@ body {
 
 .footer {
   height: 300px;
-  background-color: black;
   display: flex;
+  background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
 }
 
 .footer-author {
